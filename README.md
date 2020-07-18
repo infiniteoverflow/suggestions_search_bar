@@ -6,9 +6,9 @@ A Customizable Suggestions Search Bar developed out of necessity.
 
 <table style="{border:none}">
 <tr><td>
-<img src="./screenshots/1.png" width="300"/>
+<img src="https://github.com/infiniteoverflow/suggestions_search_bar/blob/master/screenshots/1.png?raw=true" width="300"/>
 </td><td>
-<img src="./screenshots/2.png" width="300" />
+<img src="https://github.com/infiniteoverflow/suggestions_search_bar/blob/master/screenshots/2.png?raw=true" width="300" />
 </td></tr></table>
 
 ## Example

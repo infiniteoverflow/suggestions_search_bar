@@ -1,5 +1,5 @@
 name: suggestion_search_bar
-description: A Flutter package to create a search bar with suggestions.
+description: A Flutter package to create a search bar with suggestions. It provides suggestions to the user when they click the search field.
 version: 0.0.1
 homepage: https://github.com/infiniteoverflow/suggestions_search_bar
 
